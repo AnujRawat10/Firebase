@@ -1,0 +1,17 @@
+/* SignIn.css */
+
+.signin-button {
+    background-color: #4285F4; /* Google's brand color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+  }
+  
+  .signin-button:hover {
+    background-color: #357ae8;
+  }
+  
